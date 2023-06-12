@@ -2,7 +2,7 @@
 # calculate_theta_and_more.py 
 # Original creator: Israel Silber
 # Converted from Matlab to Python by McKenna Stanford
-# Author: McKenna W. Stanford (mws2175@columbia.edu)
+# Obtained by MS on 09-02-2020
 #%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
